@@ -11,7 +11,7 @@ public class printf {
     
         // Convertion type characters
 
-        System.out.printf("%d", 10 ); // decimal
+        System.out.printf("%d", 10 ); // integer
         System.out.println("");
 
         System.out.printf("%f",10.1); // floating point
@@ -79,7 +79,7 @@ public class printf {
         System.out.printf("%TB" , cal02);     // 
         System.out.println("");
 
-        System.out.println("%n"); // new line like /n
+        System.out.println("%n"); // new line like \n
 
         System.out.println("%%"); // to print %
 
